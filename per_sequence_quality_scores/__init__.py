@@ -1,0 +1,4 @@
+from . import per_sequence_quality_scores
+__all__= [extract_per_sequence_quality_scores_FastQC]
+
+from .extract_per_sequence_quality_scores_FastQC import perseqqualityscores

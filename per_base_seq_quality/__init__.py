@@ -1,0 +1,7 @@
+from . import extractperbasesequencequalityFromFastQC
+
+__all__ = [extractperbasesequencequalityFromFastQC]
+
+from .extractperbasesequencequalityFromFastQC import extractperbasesequencequalityFromFastQC
+from .extractperbasesequencequalityFromFastQC import calculate_avg_seqqual_over_interval
+from .extractperbasesequencequalityFromFastQC import calculateaveragesequencequalityoverintervals

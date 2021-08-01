@@ -1,0 +1,5 @@
+from . import extractperbaseSequenceContentFromFastQC
+
+__all__ = [extractperbaseSequenceContentFromFastQC]
+
+from .extractperbaseSequenceContentFromFastQC import extract_perbase_sequence_content

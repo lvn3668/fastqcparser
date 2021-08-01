@@ -1,0 +1,4 @@
+from . import extractBasicStatisticsLinesFromFastQC
+__all__ = [extractBasicStatisticsLinesFromFastQC]
+
+from .extractBasicStatisticsLinesFromFastQC import extractBasicStatisticsLinesFromFastQC

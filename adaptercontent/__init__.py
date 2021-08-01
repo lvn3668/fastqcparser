@@ -1,0 +1,3 @@
+from . import extractAdapterContentrowsFromFastQC
+__all__ = [extractAdapterContentrowsFromFastQC]
+from .extractAdapterContentrowsFromFastQC import extractAdapterContentrows

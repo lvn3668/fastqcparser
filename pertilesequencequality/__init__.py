@@ -1,0 +1,2 @@
+
+from .extract_per_tile_sequence_quality_fromFastQC import extract_pertile_sequence_quality_records_from_FastQC
